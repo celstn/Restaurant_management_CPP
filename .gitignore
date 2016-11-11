@@ -4,5 +4,6 @@
 # Project
 tests/
 .idea/
-*.txt
+
+CMakeLists.txt
 *.o

@@ -1,0 +1,22 @@
+recette A
+i1 1
+---
+reception 0j_00h00m
+i1 2 10j_00h00m
+---
+reservation 0j_00h01m
+A 3
+---
+reservation 0j_00h02m
+A 1
+---
+reservation 0j_00h03m
+A 1
+---
+reservation 0j_01h00m
+A 1
+---
+reservation 0j_02h00m
+A 1
+---
+
