@@ -1,0 +1,8 @@
+# MAC OSX
+.DS_Store
+
+# Project
+tests/
+.idea/
+*.txt
+*.o
